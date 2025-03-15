@@ -3,7 +3,7 @@
 ### 1. Inisialisasi Modul  
 Jalankan perintah berikut untuk menginisialisasi proyek dan mengunduh dependensi:  
 ```sh
-go mod init Tugas_3
+go mod init MinIO
 go get github.com/minio/minio-go/v7
 go get github.com/minio/minio-go/v7/pkg/credentials
 go mod tidy
